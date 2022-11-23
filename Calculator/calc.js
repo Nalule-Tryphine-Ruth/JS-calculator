@@ -3,7 +3,7 @@ function calculate(){
 //prompts user to Enter first number
 var firstNumber;
 firstNumber =prompt('Enter the first number');
-//Enter second number
+//prompts user to Enter second number
 var secondNumber;
 secondNumber =prompt('Enter the second number');
 
