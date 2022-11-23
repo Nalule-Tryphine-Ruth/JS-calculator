@@ -10,6 +10,7 @@ secondNumber =prompt('Enter the second number');
 
 //Enter mode of operation
 var operator;
+//prompt allows user to enter the operator
 operator =prompt('Enter the operator(+,-,/,*)');
 
 
