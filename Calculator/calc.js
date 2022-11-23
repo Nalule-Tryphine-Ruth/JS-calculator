@@ -1,6 +1,6 @@
 function calculate(){
 
-//Enter first number
+//prompts user to Enter first number
 var firstNumber;
 firstNumber =prompt('Enter the first number');
 //Enter second number
