@@ -29,7 +29,7 @@ if(operator=='+'){
     result= Number(firstNumber) /Number(secondNumber);
 } else result ="Error please enter valid operator"
     //this is the function for errors
-
+    // the alert displays the result from the statement written above
 alert(result);
 
 }
