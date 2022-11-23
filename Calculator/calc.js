@@ -3,13 +3,14 @@ function calculate(){
 //prompts user to Enter first number
 var firstNumber;
 firstNumber =prompt('Enter the first number');
-//Enter second number
+//prompts user to Enter second number
 var secondNumber;
 secondNumber =prompt('Enter the second number');
 
 
 //Enter mode of operation
 var operator;
+//prompt allows user to enter the operator
 operator =prompt('Enter the operator(+,-,/,*)');
 
 
